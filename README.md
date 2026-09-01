@@ -1,41 +1,54 @@
 <div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonardowebd/leonardowebd/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonardowebd/leonardowebd/main/light.svg">
-  <img alt="Leonardo Aragão animated terminal portrait hero" src="https://raw.githubusercontent.com/leonardowebd/leonardowebd/main/light.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonardowebd/leonardowebd/main/dark-terminal-cascade.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonardowebd/leonardowebd/main/light-terminal-cascade.gif">
+  <img alt="Leonardo Aragão animated terminal portrait hero" src="https://raw.githubusercontent.com/leonardowebd/leonardowebd/main/light-terminal-cascade.gif" width="100%" />
 </picture>
+
 <br/>
+
 <img src="https://img.shields.io/badge/Bacharelado%20em%20Sistemas%20de%20Informa%C3%A7%C3%A3o-UNEX-60A5FA?style=flat-square&labelColor=060D08&color=1A2333&logo=graduation-cap&logoColor=60A5FA" alt="degree" />
 <img src="https://img.shields.io/badge/%F0%9F%93%8D_Vit%C3%B3ria%20da%20Conquista%2C%20Brasil-1A2333?style=flat-square&labelColor=060D08&logoColor=60A5FA" alt="location" />
+<img src="https://img.shields.io/badge/AI%20Engineer-60A5FA?style=flat-square&labelColor=060D08&color=1A2333&logoColor=60A5FA" alt="ai engineer" />
 <img src="https://img.shields.io/badge/%40leoaragao.1-Instagram-60A5FA?style=flat-square&logo=instagram&logoColor=000000&labelColor=060D08" alt="instagram" />
+
 <br/><br/>
+
 <a href="https://linkedin.com/in/leoartmesh"><img src="https://img.shields.io/badge/LinkedIn-60A5FA?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=060D08" alt="linkedin" /></a>
 <a href="mailto:contact.leonardo@vornit.site"><img src="https://img.shields.io/badge/Email-60A5FA?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=060D08" alt="email" /></a>
 <a href="https://github.com/leonardowebd"><img src="https://img.shields.io/badge/GitHub-60A5FA?style=for-the-badge&logo=github&logoColor=000000&labelColor=060D08" alt="github" /></a>
+
 <br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=leonardowebd&style=flat-square&color=60A5FA&labelColor=060D08&label=Profile+Views" alt="views" />
 <img src="https://img.shields.io/github/followers/leonardowebd?style=flat-square&color=60A5FA&labelColor=060D08&logo=github&label=Followers" alt="followers" />
 <img src="https://img.shields.io/github/stars/leonardowebd?style=flat-square&color=60A5FA&labelColor=060D08&logo=github&label=Stars" alt="stars" />
-<div align="center">
+
+<br/><br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonardowebd/leonardowebd/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonardowebd/leonardowebd/output/snake-light.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/leonardowebd/leonardowebd/output/snake-light.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/leonardowebd/leonardowebd/output/snake-light.svg" width="100%" />
 </picture>
+
 </div>
 
-## '> ls /Whoami
+---
 
-Designer e Desenvolvedor Front-End com **6+ anos** entregando **produtos digitais completos, do design à entrega**, para clientes em lançamentos digitais, indústria, setor automotivo, telecom e e-commerce. No dia a dia: definição de UI/UX no Figma, desenvolvimento front-end multi-stack e, no último ano, estruturação de arquitetura de IA.
+## `> whoami`
+
+Designer e Desenvolvedor Front-End com **6+ anos** entregando **produtos digitais completos, do design à entrega**, para clientes em lançamentos digitais, indústria, setor automotivo, telecom e e-commerce. No dia a dia: definição de UI/UX no Figma, desenvolvimento front-end multi-stack e, no último ano, estruturação de **arquitetura de IA**.
 
 ```bash
 $ cat .profile
-ROLE        =  Front-End Developer & UI/UX Designer
+ROLE        =  Front-End Developer & AI Engineer
 EXP         =  6+ years, do design ao front-end e IA
 DOMAIN      =  Lançamentos Digitais | Indústria | Automotivo | Telecom | E-commerce
 DESIGN      =  Figma | Design Systems | Copywriting
+AI_STACK    =  Claude | GPT | MCP | RAG | SDD | Ollama
 SIDE_BUILD  =  Trajetto | ABF Emplacamentos | SigaOn+ | Central Caverna | Newtoo
-AI_STACK    =  MCP | RAG | SDD | Ollama
 LOCATION    =  Vitória da Conquista, Brasil
 OPEN_TO     =  Front-End Projects  +  AI Product Architecture Roles
 ```
@@ -56,34 +69,38 @@ OPEN_TO     =  Front-End Projects  +  AI Product Architecture Roles
 
 **[ Backend & Data ]**
 
-<img src="https://skillicons.dev/icons?i=mysql,mangodb,aws&theme=dark" alt="backend" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,aws&theme=dark" alt="backend" />
 
 **[ Cloud, DevOps & Infra ]**
 
 <img src="https://skillicons.dev/icons?i=vercel,git,github&theme=dark" alt="cloud" />
 
-**[ IA ]**
+**[ AI ]**
 
-<img src="https://skillicons.dev/icons?i=claude,codex,RAG,LLM,SDD&theme=dark" alt="cloud" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,opencv&theme=dark" alt="ai" />
+<img src="https://img.shields.io/badge/Claude-60A5FA?style=flat-square&labelColor=060D08" alt="claude" />
+<img src="https://img.shields.io/badge/OpenAI%20GPT-60A5FA?style=flat-square&logo=openai&logoColor=000000&labelColor=060D08" alt="gpt" />
+<img src="https://img.shields.io/badge/Ollama-60A5FA?style=flat-square&logo=ollama&logoColor=000000&labelColor=060D08" alt="ollama" />
 
 </div>
+
 <br/>
+
 <div align="center">
 
 **[ Design Tools & No-code ]**
 
-<img src="https://img.shields.io/badge/Figma-CAFF3C?style=flat-square&logo=figma&logoColor=000000&labelColor=060D08" alt="figma" />
-<img src="https://img.shields.io/badge/Framer-CAFF3C?style=flat-square&logo=framer&logoColor=000000&labelColor=060D08" alt="framer" />
-<img src="https://img.shields.io/badge/Webflow-CAFF3C?style=flat-square&logo=webflow&logoColor=000000&labelColor=060D08" alt="webflow" />
-<img src="https://img.shields.io/badge/WordPress-CAFF3C?style=flat-square&logo=wordpress&logoColor=000000&labelColor=060D08" alt="wordpress" />
+<img src="https://img.shields.io/badge/Figma-60A5FA?style=flat-square&logo=figma&logoColor=000000&labelColor=060D08" alt="figma" />
+<img src="https://img.shields.io/badge/Framer-60A5FA?style=flat-square&logo=framer&logoColor=000000&labelColor=060D08" alt="framer" />
+<img src="https://img.shields.io/badge/Webflow-60A5FA?style=flat-square&logo=webflow&logoColor=000000&labelColor=060D08" alt="webflow" />
+<img src="https://img.shields.io/badge/WordPress-60A5FA?style=flat-square&logo=wordpress&logoColor=000000&labelColor=060D08" alt="wordpress" />
 
 **[ AI Architecture ]**
 
-<img src="https://img.shields.io/badge/Claude%20%2F%20GPT-CAFF3C?style=flat-square&labelColor=060D08" alt="llms" />
-<img src="https://img.shields.io/badge/MCP-CAFF3C?style=flat-square&labelColor=060D08" alt="mcp" />
-<img src="https://img.shields.io/badge/RAG-CAFF3C?style=flat-square&labelColor=060D08" alt="rag" />
-<img src="https://img.shields.io/badge/SDD-CAFF3C?style=flat-square&labelColor=060D08" alt="sdd" />
-<img src="https://img.shields.io/badge/Ollama-CAFF3C?style=flat-square&labelColor=060D08" alt="ollama" />
+<img src="https://img.shields.io/badge/MCP%20(Model%20Context%20Protocol)-60A5FA?style=flat-square&labelColor=060D08" alt="mcp" />
+<img src="https://img.shields.io/badge/RAG-60A5FA?style=flat-square&labelColor=060D08" alt="rag" />
+<img src="https://img.shields.io/badge/SDD%20(Spec--Driven%20Dev)-60A5FA?style=flat-square&labelColor=060D08" alt="sdd" />
+<img src="https://img.shields.io/badge/LLMs%20Locais%20(Ollama)-60A5FA?style=flat-square&labelColor=060D08" alt="local llm" />
 
 </div>
 
@@ -97,7 +114,7 @@ OPEN_TO     =  Front-End Projects  +  AI Product Architecture Roles
 | **Front-end Multi-stack** | `█████ Expert` | React, Next.js, Tailwind, WordPress, Framer, Webflow |
 | **Design Systems** | `█████ Expert` | Paleta, tipografia e identidade visual, do Figma à produção |
 | **Copywriting de Produto** | `████░ Senior` | Headlines e copy institucional orientados a conversão |
-| **AI Architecture** | `████░ Senior` | LLMs (Claude, GPT), MCP, RAG, SDD, Ollama |
+| **AI Engineering** | `████░ Senior` | LLMs (Claude, GPT), MCP, RAG, SDD, Ollama |
 | **Backend & Cloud** | `███░░ Intermediate` | AWS (EC2, S3), MySQL |
 
 ---
@@ -190,20 +207,20 @@ Design de interface no Figma e desenvolvimento front-end para identidade e prese
 
 ## `> cat experience.log`
 
-**`Front-End Developer & UI/UX Designer`** &nbsp; — &nbsp; Atuação autônoma, 6+ anos, +200 projetos
+**`Front-End Developer & AI Engineer`** &nbsp; — &nbsp; Atuação autônoma, 6+ anos, +200 projetos
 
 Design de UI/UX no Figma, do wireframe à identidade visual completa, e desenvolvimento front-end multi-stack para clientes de lançamentos digitais, indústrias, empresas de engenharia, influenciadores digitais, estúdios cinematográficos, e-commerces nacionais e negócios locais.
 
 - Definição de UI/UX no Figma e estruturação de design systems completos (paleta, tipografia, identidade)
 - Desenvolvimento front-end em React, Next.js, WordPress, Framer e Webflow
 - Conhecimento de back-end (AWS, MySQL) e infraestrutura de deploy (Vercel, GitHub)
-- No último ano: expansão para arquitetura de IA — estruturação de LLMs (Claude, GPT), MCP, RAG e SDD
+- No último ano: expansão para **AI Engineering** — estruturação de LLMs (Claude, GPT), MCP, RAG e SDD
 
-`React` `Next.js` `Tailwind` `WordPress` `Framer` `Webflow` `Figma` `AWS` `MySQL`
+`React` `Next.js` `Tailwind` `WordPress` `Framer` `Webflow` `Figma` `AWS` `MySQL` `Claude` `GPT` `MCP` `RAG` `SDD`
 
 <br/>
 
-> Sem datas exatas por projeto no seu CV — me manda os períodos (ex: `[2024-01 → 2024-06]`) se quiser quebrar isso em entradas cronológicas como no exemplo original.
+> Sem datas exatas por projeto no seu CV — me manda os períodos (ex: `[2024-01 → 2024-06]`) se quiser quebrar isso em entradas cronológicas.
 
 ---
 
@@ -217,22 +234,31 @@ Design de UI/UX no Figma, do wireframe à identidade visual completa, e desenvol
 | ▮ **Diversidade de Segmentos** | Lançamentos digitais, indústria, automotivo, telecom, cinema, e-commerce, negócios locais |
 | ▮ **Design Systems Completos** | Do Figma à produção — paleta, tipografia e identidade de ponta a ponta |
 | ▮ **Front-end Multi-stack** | React, Next.js, WordPress, Framer e Webflow no mesmo portfólio |
-| ▮ **AI Architecture** | Estruturação de IA (MCP, RAG, SDD) somada ao design/front-end |
+| ▮ **AI Engineering** | Estruturação de IA (MCP, RAG, SDD) somada ao design/front-end |
 
 </div>
 
+---
 
 ## `> contribution-report --detailed`
 
 <div align="center">
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leonardowebd&theme=2077" width="100%" alt="profile-details" />
+
 <br/>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leonardowebd&theme=2077" alt="repos-per-language" />&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leonardowebd&theme=2077" alt="most-commit-language" />
+
 <br/>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leonardowebd&theme=2077" alt="stats-card" />&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leonardowebd&theme=2077&utcOffset=-3" alt="productive-time" />
+
 </div>
+
+---
 
 ## `> cat current-focus.yaml`
 
@@ -251,7 +277,7 @@ exploring:
   - Infraestrutura própria para LLMs locais
 open_to:
   - Front-End Projects (React, Next.js, WordPress, Framer, Webflow)
-  - AI Product Architecture Roles
+  - AI Engineering / AI Product Architecture Roles
 ```
 
 ---
@@ -259,11 +285,20 @@ open_to:
 ## `> ping me`
 
 <div align="center">
-<a href="mailto:contact.leonardo@vornit.site"><img src="https://img.shields.io/badge/Gmail-CAFF3C?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=060D08" alt="gmail" /></a>
-<a href="https://linkedin.com/in/leoartmesh"><img src="https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=060D08" alt="linkedin" /></a>
-<a href="https://github.com/leonardowebd"><img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=000000&labelColor=060D08" alt="github" /></a>
-<a href="https://instagram.com/leoaragao.1"><img src="https://img.shields.io/badge/%40leoaragao.1-CAFF3C?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=060D08" alt="instagram" /></a>
-<a href="https://wa.me/5577981126262"><img src="https://img.shields.io/badge/WhatsApp-CAFF3C?style=for-the-badge&logo=whatsapp&logoColor=000000&labelColor=060D08" alt="whatsapp" /></a>
-<a href="https://leoaragao.vornit.site"><img src="https://img.shields.io/badge/Portfolio-CAFF3C?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=060D08" alt="portfolio" /></a>
+
+<a href="mailto:contact.leonardo@vornit.site"><img src="https://img.shields.io/badge/Gmail-60A5FA?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=060D08" alt="gmail" /></a>
+<a href="https://linkedin.com/in/leoartmesh"><img src="https://img.shields.io/badge/LinkedIn-60A5FA?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=060D08" alt="linkedin" /></a>
+<a href="https://github.com/leonardowebd"><img src="https://img.shields.io/badge/GitHub-60A5FA?style=for-the-badge&logo=github&logoColor=000000&labelColor=060D08" alt="github" /></a>
+<a href="https://instagram.com/leoaragao.1"><img src="https://img.shields.io/badge/%40leoaragao.1-60A5FA?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=060D08" alt="instagram" /></a>
+<a href="https://wa.me/5577981126262"><img src="https://img.shields.io/badge/WhatsApp-60A5FA?style=for-the-badge&logo=whatsapp&logoColor=000000&labelColor=060D08" alt="whatsapp" /></a>
+<a href="https://leoaragao.vornit.site"><img src="https://img.shields.io/badge/Portfolio-60A5FA?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=060D08" alt="portfolio" /></a>
+
 </div>
 
+---
+
+<div align="center">
+<sub><i>// by day: UI/UX design &amp; front-end delivery &nbsp;|&nbsp; by night: AI engineering</i></sub>
+<br/><br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=060D08&fontColor=60A5FA" alt="footer" />
+</div>
