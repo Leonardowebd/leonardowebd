@@ -1,3 +1,13 @@
+ <br/>
+<img width="100%" src="assets/leo-terminal-raster-hero.gif" alt="Leonardo Aragão animated terminal raster portrait hero" />
+<br/>
+<img src="https://img.shields.io/badge/Bacharelado%20em%20Sistemas%20de%20Informa%C3%A7%C3%A3o-UNEX-60A5FA?style=flat-square&labelColor=060D08&color=1A2333&logo=graduation-cap&logoColor=60A5FA" alt="degree" />
+<img src="https://img.shields.io/badge/%F0%9F%93%8D_Vit%C3%B3ria%20da%20Conquista%2C%20Brasil-1A2333?style=flat-square&labelColor=060D08&logoColor=60A5FA" alt="location" />
+<img src="https://img.shields.io/badge/%40leoaragao.1-Instagram-60A5FA?style=flat-square&logo=instagram&logoColor=000000&labelColor=060D08" alt="instagram" />
+<br/><br/>
+
+---
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonardowebd/leonardowebd/main/dark.svg">
