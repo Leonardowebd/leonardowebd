@@ -311,16 +311,3 @@ open_to:
 <a href="https://leoaragao.vornit.site"><img src="https://img.shields.io/badge/Portfolio-CAFF3C?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=060D08" alt="portfolio" /></a>
 </div>
 
----
-
-<div align="center">
-<sub><i>// by day: UI/UX design &amp; front-end delivery &nbsp;|&nbsp; by night: shipping AI-structured products</i></sub>
-<br/><br/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0a0f08&fontColor=CAFF3C" alt="footer" />
-</div>
-
-<br/><br/>
-<a href="https://linkedin.com/in/leoartmesh"><img src="https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=060D08" alt="linkedin" /></a>
-<a href="mailto:contact.leonardo@vornit.site"><img src="https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=060D08" alt="email" /></a>
-<a href="https://github.com/leonardowebd"><img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=000000&labelColor=060D08" alt="github" /></a>
-<br/><br/>
