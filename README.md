@@ -16,11 +16,6 @@
 <img src="https://komarev.com/ghpvc/?username=leonardowebd&style=flat-square&color=60A5FA&labelColor=060D08&label=Profile+Views" alt="views" />
 <img src="https://img.shields.io/github/followers/leonardowebd?style=flat-square&color=60A5FA&labelColor=060D08&logo=github&label=Followers" alt="followers" />
 <img src="https://img.shields.io/github/stars/leonardowebd?style=flat-square&color=60A5FA&labelColor=060D08&logo=github&label=Stars" alt="stars" />
-
----
-
-## `> ./snake-animation.sh`
-
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonardowebd/leonardowebd/output/snake-dark.svg">
@@ -28,11 +23,6 @@
   <img alt="snake" src="https://raw.githubusercontent.com/leonardowebd/leonardowebd/output/snake-light.svg" />
 </picture>
 </div>
-
----
-
-## `> whoami`
-
 Designer e Desenvolvedor Front-End com **6+ anos** entregando **produtos digitais completos, do design à entrega**, para clientes em lançamentos digitais, indústria, setor automotivo, telecom e e-commerce. No dia a dia: definição de UI/UX no Figma, desenvolvimento front-end multi-stack e, no último ano, estruturação de arquitetura de IA.
 
 Mais de **200 projetos entregues**, unindo design de interface, front-end e IA para gerar melhores resultados em produtos digitais.
