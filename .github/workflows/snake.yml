@@ -1,0 +1,30 @@
+name: generate animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: leonardowebd
+          outputs: |
+            dist/snake-light.svg?color_snake=%232563EB&color_dots=%23EBEDF0,%23C7D2E3,%2360A5FA,%232563EB,%230A101F
+            dist/snake-dark.svg?color_snake=%2360A5FA&color_dots=%232d3343,%234B5875,%2322D3EE,%2360A5FA,%232563EB
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
