@@ -11,3 +11,10 @@
 <br clear="left"/>
 
 <img width="100%" src="https://streak-stats.demolab.com/?user=leonardowebd&hide_border=true&background=0A101F&ring=60A5FA&fire=22D3EE&currStreakLabel=C7D2E3&sideLabels=C7D2E3&currStreakNum=C7D2E3&sideNums=C7D2E3&dates=4B5875&stroke=101828" alt="GitHub Streak" />
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonardowebd/leonardowebd/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonardowebd/leonardowebd/output/snake-light.svg">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/leonardowebd/leonardowebd/output/snake-light.svg" width="100%">
+</picture>
