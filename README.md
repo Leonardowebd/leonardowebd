@@ -18,3 +18,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonardowebd/leonardowebd/output/snake-light.svg">
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/leonardowebd/leonardowebd/output/snake-light.svg" width="100%">
 </picture>
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leoartmesh)&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/leoaragao.1)&nbsp;&nbsp;[![WhatsApp](https://img.shields.io/badge/WhatsApp-0A101F?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/5577981126262)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:contact.leonardo@vornit.site)&nbsp;&nbsp;[![Portfolio](https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=60A5FA)](https://leoaragao.vornit.site)
