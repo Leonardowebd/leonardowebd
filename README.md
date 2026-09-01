@@ -23,9 +23,10 @@
   <img alt="snake" src="https://raw.githubusercontent.com/leonardowebd/leonardowebd/output/snake-light.svg" />
 </picture>
 </div>
-Designer e Desenvolvedor Front-End com **6+ anos** entregando **produtos digitais completos, do design à entrega**, para clientes em lançamentos digitais, indústria, setor automotivo, telecom e e-commerce. No dia a dia: definição de UI/UX no Figma, desenvolvimento front-end multi-stack e, no último ano, estruturação de arquitetura de IA.
 
-Mais de **200 projetos entregues**, unindo design de interface, front-end e IA para gerar melhores resultados em produtos digitais.
+## '> ls /Whoami
+
+Designer e Desenvolvedor Front-End com **6+ anos** entregando **produtos digitais completos, do design à entrega**, para clientes em lançamentos digitais, indústria, setor automotivo, telecom e e-commerce. No dia a dia: definição de UI/UX no Figma, desenvolvimento front-end multi-stack e, no último ano, estruturação de arquitetura de IA.
 
 ```bash
 $ cat .profile
@@ -55,11 +56,15 @@ OPEN_TO     =  Front-End Projects  +  AI Product Architecture Roles
 
 **[ Backend & Data ]**
 
-<img src="https://skillicons.dev/icons?i=mysql,aws&theme=dark" alt="backend" />
+<img src="https://skillicons.dev/icons?i=mysql,mangodb,aws&theme=dark" alt="backend" />
 
 **[ Cloud, DevOps & Infra ]**
 
 <img src="https://skillicons.dev/icons?i=vercel,git,github&theme=dark" alt="cloud" />
+
+**[ IA ]**
+
+<img src="https://skillicons.dev/icons?i=claude,codex,RAG,LLM,SDD&theme=dark" alt="cloud" />
 
 </div>
 <br/>
