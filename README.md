@@ -17,13 +17,9 @@
 <a href="mailto:contact.leonardo@vornit.site"><img src="https://img.shields.io/badge/Email-60A5FA?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=060D08" alt="email" /></a>
 <a href="https://github.com/leonardowebd"><img src="https://img.shields.io/badge/GitHub-60A5FA?style=for-the-badge&logo=github&logoColor=000000&labelColor=060D08" alt="github" /></a>
 
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=leonardowebd&style=flat-square&color=60A5FA&labelColor=060D08&label=Profile+Views" alt="views" />
 <img src="https://img.shields.io/github/followers/leonardowebd?style=flat-square&color=60A5FA&labelColor=060D08&logo=github&label=Followers" alt="followers" />
 <img src="https://img.shields.io/github/stars/leonardowebd?style=flat-square&color=60A5FA&labelColor=060D08&logo=github&label=Stars" alt="stars" />
-
-<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonardowebd/leonardowebd/output/snake-dark.svg">
