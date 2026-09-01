@@ -1,12 +1,20 @@
- <br/>
+<div align="center">
+<img width="100%" src="assets/terminal-contributions.png" alt="Terminal-style GitHub contributions heatmap" />
+<br/>
 <img width="100%" src="assets/leo-terminal-raster-hero.gif" alt="Leonardo Aragão animated terminal raster portrait hero" />
 <br/>
 <img src="https://img.shields.io/badge/Bacharelado%20em%20Sistemas%20de%20Informa%C3%A7%C3%A3o-UNEX-60A5FA?style=flat-square&labelColor=060D08&color=1A2333&logo=graduation-cap&logoColor=60A5FA" alt="degree" />
 <img src="https://img.shields.io/badge/%F0%9F%93%8D_Vit%C3%B3ria%20da%20Conquista%2C%20Brasil-1A2333?style=flat-square&labelColor=060D08&logoColor=60A5FA" alt="location" />
 <img src="https://img.shields.io/badge/%40leoaragao.1-Instagram-60A5FA?style=flat-square&logo=instagram&logoColor=000000&labelColor=060D08" alt="instagram" />
 <br/><br/>
-
----
+<a href="https://linkedin.com/in/leoartmesh"><img src="https://img.shields.io/badge/LinkedIn-60A5FA?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=060D08" alt="linkedin" /></a>
+<a href="mailto:contact.leonardo@vornit.site"><img src="https://img.shields.io/badge/Email-60A5FA?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=060D08" alt="email" /></a>
+<a href="https://github.com/leonardowebd"><img src="https://img.shields.io/badge/GitHub-60A5FA?style=for-the-badge&logo=github&logoColor=000000&labelColor=060D08" alt="github" /></a>
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=leonardowebd&style=flat-square&color=60A5FA&labelColor=060D08&label=Profile+Views" alt="views" />
+<img src="https://img.shields.io/github/followers/leonardowebd?style=flat-square&color=60A5FA&labelColor=060D08&logo=github&label=Followers" alt="followers" />
+<img src="https://img.shields.io/github/stars/leonardowebd?style=flat-square&color=60A5FA&labelColor=060D08&logo=github&label=Stars" alt="stars" />
+</div>
 
 <div align="center">
 <picture>
