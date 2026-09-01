@@ -209,7 +209,7 @@ Design de interface no Figma e desenvolvimento front-end para identidade e prese
 
 **`Front-End Developer & AI Engineer`** &nbsp; — &nbsp; Atuação autônoma, 6+ anos, +200 projetos
 
-Design de UI/UX no Figma, do wireframe à identidade visual completa, e desenvolvimento front-end multi-stack para clientes de lançamentos digitais, indústrias, empresas de engenharia, influenciadores digitais, estúdios cinematográficos, e-commerces nacionais e negócios locais.
+Design de UI/UX no Figma, do wireframe à identidade visual completa, e desenvolvimento front-end multi-stack para clientes de lançamentos digitais, indústrias, empresas de engenharia, influenciadores digitais, estúdios, e-commerces.
 
 - Definição de UI/UX no Figma e estruturação de design systems completos (paleta, tipografia, identidade)
 - Desenvolvimento front-end em React, Next.js, WordPress, Framer e Webflow
@@ -219,9 +219,6 @@ Design de UI/UX no Figma, do wireframe à identidade visual completa, e desenvol
 `React` `Next.js` `Tailwind` `WordPress` `Framer` `Webflow` `Figma` `AWS` `MySQL` `Claude` `GPT` `MCP` `RAG` `SDD`
 
 <br/>
-
-> Sem datas exatas por projeto no seu CV — me manda os períodos (ex: `[2024-01 → 2024-06]`) se quiser quebrar isso em entradas cronológicas.
-
 ---
 
 ## `> echo $ACHIEVEMENTS`
@@ -237,50 +234,6 @@ Design de UI/UX no Figma, do wireframe à identidade visual completa, e desenvol
 | ▮ **AI Engineering** | Estruturação de IA (MCP, RAG, SDD) somada ao design/front-end |
 
 </div>
-
----
-
-## `> contribution-report --detailed`
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leonardowebd&theme=2077" width="100%" alt="profile-details" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leonardowebd&theme=2077" alt="repos-per-language" />&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leonardowebd&theme=2077" alt="most-commit-language" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leonardowebd&theme=2077" alt="stats-card" />&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leonardowebd&theme=2077&utcOffset=-3" alt="productive-time" />
-
-</div>
-
----
-
-## `> cat current-focus.yaml`
-
-```yaml
-learning:
-  - Infraestrutura própria para hospedagem local de LLMs (Ollama)
-  - Aprofundamento em RAG e SDD (Spec-Driven Development)
-building:
-  - Trajetto        # Site institucional automotivo B2C/B2B
-  - Newtoo          # Consultoria de automação comercial com IA
-creating:
-  - instagram: "@leoaragao.1"
-  - youtube:   "@leoaragao1"
-exploring:
-  - Arquitetura e estruturação de IA orientada a resultados
-  - Infraestrutura própria para LLMs locais
-open_to:
-  - Front-End Projects (React, Next.js, WordPress, Framer, Webflow)
-  - AI Engineering / AI Product Architecture Roles
-```
-
----
 
 ## `> ping me`
 
