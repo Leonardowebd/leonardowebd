@@ -20,6 +20,18 @@
 
 ---
 
+## `> ./snake-animation.sh`
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonardowebd/leonardowebd/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonardowebd/leonardowebd/output/snake-light.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/leonardowebd/leonardowebd/output/snake-light.svg" />
+</picture>
+</div>
+
+---
+
 ## `> whoami`
 
 Designer e Desenvolvedor Front-End com **6+ anos** entregando **produtos digitais completos, do design à entrega**, para clientes em lançamentos digitais, indústria, setor automotivo, telecom e e-commerce. No dia a dia: definição de UI/UX no Figma, desenvolvimento front-end multi-stack e, no último ano, estruturação de arquitetura de IA.
@@ -215,42 +227,6 @@ Design de UI/UX no Figma, do wireframe à identidade visual completa, e desenvol
 
 </div>
 
----
-
-## `> git log --oneline /education`
-
-<div align="center">
-<img src="https://img.shields.io/badge/Bacharelado%20em%20Sistemas%20de%20Informa%C3%A7%C3%A3o-UNEX%20%C2%B7%20Vit%C3%B3ria%20da%20Conquista-CAFF3C?style=for-the-badge&logo=academia&logoColor=000000&labelColor=060D08" alt="education" />
-</div>
-
----
-
-## `> git stats --global`
-
-<div align="center">
-<img height="165" src="https://github-readme-stats-leonardos-projects-dd01b80e.vercel.app/api?username=leonardowebd&show_icons=true&count_private=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08" alt="stats" />
-<img height="165" src="https://streak-stats.demolab.com/?user=leonardowebd&hide_border=true&background=0A0F08&stroke=CAFF3C&ring=8AFF57&fire=39FF14&currStreakLabel=CAFF3C&sideLabels=8AFF57&dates=8AFF57&currStreakNum=CAFF3C&sideNums=CAFF3C" alt="streak" />
-<br/>
-<img height="165" src="https://github-readme-stats-leonardos-projects-dd01b80e.vercel.app/api/top-langs/?username=leonardowebd&layout=compact&hide_border=true&langs_count=8&title_color=CAFF3C&text_color=E8F5E1&bg_color=0A0F08" alt="top-langs" />
-</div>
-
----
-
-## `> trophy-case --display`
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=leonardowebd&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-</div>
-
----
-
-## `> activity-graph --timeline`
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=leonardowebd&bg_color=0A0F08&color=CAFF3C&line=8AFF57&point=CAFF3C&area=true&area_color=1A2B0A&hide_border=true" alt="activity-graph" />
-</div>
-
----
 
 ## `> contribution-report --detailed`
 
@@ -263,20 +239,6 @@ Design de UI/UX no Figma, do wireframe à identidade visual completa, e desenvol
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leonardowebd&theme=2077" alt="stats-card" />&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leonardowebd&theme=2077&utcOffset=-3" alt="productive-time" />
 </div>
-
----
-
-## `> ./snake-animation.sh`
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonardowebd/leonardowebd/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonardowebd/leonardowebd/output/snake-light.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/leonardowebd/leonardowebd/output/snake-light.svg" />
-</picture>
-</div>
-
----
 
 ## `> cat current-focus.yaml`
 
