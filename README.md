@@ -13,8 +13,6 @@
 <img src="https://img.shields.io/badge/AI%20Engineer-60A5FA?style=flat-square&labelColor=060D08&color=1A2333&logoColor=60A5FA" alt="ai engineer" />
 <img src="https://img.shields.io/badge/%40leoaragao.1-Instagram-60A5FA?style=flat-square&logo=instagram&logoColor=000000&labelColor=060D08" alt="instagram" />
 
-<br/><br/>
-
 <a href="https://linkedin.com/in/leoartmesh"><img src="https://img.shields.io/badge/LinkedIn-60A5FA?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=060D08" alt="linkedin" /></a>
 <a href="mailto:contact.leonardo@vornit.site"><img src="https://img.shields.io/badge/Email-60A5FA?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=060D08" alt="email" /></a>
 <a href="https://github.com/leonardowebd"><img src="https://img.shields.io/badge/GitHub-60A5FA?style=for-the-badge&logo=github&logoColor=000000&labelColor=060D08" alt="github" /></a>
@@ -78,9 +76,9 @@ OPEN_TO     =  Front-End Projects  +  AI Product Architecture Roles
 **[ AI ]**
 
 <img src="https://skillicons.dev/icons?i=py,pytorch,opencv&theme=dark" alt="ai" />
-<img src="https://img.shields.io/badge/Claude-60A5FA?style=flat-square&labelColor=060D08" alt="claude" />
-<img src="https://img.shields.io/badge/OpenAI%20GPT-60A5FA?style=flat-square&logo=openai&logoColor=000000&labelColor=060D08" alt="gpt" />
-<img src="https://img.shields.io/badge/Ollama-60A5FA?style=flat-square&logo=ollama&logoColor=000000&labelColor=060D08" alt="ollama" />
+<img src="https://github.com/Leonardowebd/leonardowebd/blob/main/claude.png" alt="claude" />
+<img src="https://github.com/Leonardowebd/leonardowebd/blob/main/codex.png" alt="gpt" />
+<img src="https://github.com/Leonardowebd/leonardowebd/blob/main/ollama.png" alt="ollama" />
 
 </div>
 
