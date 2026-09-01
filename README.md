@@ -105,7 +105,7 @@ OPEN_TO     =  Front-End Projects  +  AI Product Architecture Roles
 | Domain | Proficiency | Details |
 | :-- | :-- | :-- |
 | **UI/UX Design** | `█████ Expert` | Hierarquia de informação, usabilidade, direção visual, Figma |
-| **Front-end Multi-stack** | `█████ Expert` | React, Next.js, Tailwind, WordPress, Framer, Webflow |
+| **Front-end Multi-stack** | `███░░ Intermediate` | React, Next.js, Tailwind, WordPress, Framer, Webflow |
 | **Design Systems** | `█████ Expert` | Paleta, tipografia e identidade visual, do Figma à produção |
 | **Copywriting de Produto** | `████░ Senior` | Headlines e copy institucional orientados a conversão |
 | **AI Engineering** | `████░ Senior` | LLMs (Claude, GPT), MCP, RAG, SDD, Ollama |
@@ -221,12 +221,10 @@ Design de UI/UX no Figma, do wireframe à identidade visual completa, e desenvol
 
 | Win | Detail |
 | :-- | :-- |
-| ▮ **Volume de Entrega** | Mais de 200 projetos entregues ao longo da carreira |
-| ▮ **Diversidade de Segmentos** | Lançamentos digitais, indústria, automotivo, telecom, cinema, e-commerce, negócios locais |
+| ▮ **Diversidade de Segmentos** | Lançamentos digitais, indústria, automotivo, telecom, cinema, e-commerce, projetos internacionais |
 | ▮ **Design Systems Completos** | Do Figma à produção — paleta, tipografia e identidade de ponta a ponta |
-| ▮ **Front-end Multi-stack** | React, Next.js, WordPress, Framer e Webflow no mesmo portfólio |
-| ▮ **AI Engineering** | Estruturação de IA (MCP, RAG, SDD) somada ao design/front-end |
-
+| ▮ **Front-end Multi-stack** | React, Next.js, WordPress, Framer, AWS |
+| ▮ **AI Engineering** | Estruturação de IA (MCP, RAG, SDD)|
 </div>
 
 ## `> ping me`
