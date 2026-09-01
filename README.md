@@ -76,9 +76,9 @@ OPEN_TO     =  Front-End Projects  +  AI Product Architecture Roles
 **[ AI ]**
 
 <img src="https://skillicons.dev/icons?i=py,pytorch,opencv&theme=dark" alt="ai" />
-<img src="https://github.com/Leonardowebd/leonardowebd/blob/main/claude.png" alt="claude" width="24" height="24" />
-<img src="https://github.com/Leonardowebd/leonardowebd/blob/main/codex.png" alt="gpt" width="24" height="24" />
-<img src="https://github.com/Leonardowebd/leonardowebd/blob/main/ollama.png" alt="ollama" width="24" height="24" />
+<img src="https://github.com/Leonardowebd/leonardowebd/blob/main/claude.png" alt="claude" width="48" height="48" />
+<img src="https://github.com/Leonardowebd/leonardowebd/blob/main/codex.png" alt="gpt" width="48" height="48" />
+<img src="https://github.com/Leonardowebd/leonardowebd/blob/main/ollama.png" alt="ollama" width="48" height="48" />
 
 </div>
 
